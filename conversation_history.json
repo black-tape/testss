@@ -1,0 +1,37 @@
+[
+  {
+    "user_query": "现在完成时的用法是什么？",
+    "ai_response": "现在完成时用来表示从过去开始持续到现在的动作...",
+    "timestamp": "2025-11-12T20:21:27.912186",
+    "session_id": "20251112_202127",
+    "metadata": {},
+    "retrieved_docs": [],
+    "context_summary": "用户询问了关于英语语法的问题",
+    "keywords": [
+      "现在完成时"
+    ]
+  },
+  {
+    "user_query": "能给一些例子吗？",
+    "ai_response": "当然可以。例如：'I have lived here for 10 years'...",
+    "timestamp": "2025-11-12T20:21:27.912471",
+    "session_id": "20251112_202127",
+    "metadata": {},
+    "retrieved_docs": [],
+    "context_summary": "用户询问了关于英语语法的问题",
+    "keywords": []
+  },
+  {
+    "user_query": "那么过去时和现在完成时的区别？",
+    "ai_response": "过去时表示特定时间发生的动作，而现在完成时强调与现在的联系...",
+    "timestamp": "2025-11-12T20:21:27.912700",
+    "session_id": "20251112_202127",
+    "metadata": {},
+    "retrieved_docs": [],
+    "context_summary": "用户询问了关于英语语法的问题",
+    "keywords": [
+      "现在完成时",
+      "过去时"
+    ]
+  }
+]
